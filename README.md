@@ -6,8 +6,8 @@
 
 ## 🌍 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shevchenkomykyta21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykyta-shevchenko-rrsec5)
+- 📧 Email: [shevchenkomykyta21@gmail.com](shevchenkomykyta21@gmail.com)
+- 💼 LinkedIn: [Shevchenko Mykyta](https://www.linkedin.com/in/mykyta-shevchenko-rrsec5)
 
 ---
 
@@ -23,30 +23,27 @@
 
 ### **Languages**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- JavaScript/TypeScript
+- Java
+- SQL
+- C#/C++
 
 ### **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- React.js
+- Spring
+- TailwindCSS
+- Axios
 
 ### **Tools & Platforms**
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- IntelliJ IDEA
+- Visual Studio Code
+- Visual Studio 2022
+- MySQL Workbench
+- Blender
+- Unity
+- Git
 
 ---
 
@@ -68,7 +65,7 @@
 
 - A classic 2D action-platformer built with Unity. In this game, players take control of a spider navigating through a dangerous, trap-filled cave.
 
-### 📈**[Transportation Problem Solver (Potential Method)](https://github.com/rrsec5/transoptation-problem-potential-method)**
+### 📈 **[Transportation Problem Solver (Potential Method)](https://github.com/rrsec5/transoptation-problem-potential-method)**
 
 - A C# console application designed to solve T-type Transportation Problems using Linear Programming techniques. This project focuses on minimizing shipping costs between supply nodes (factories) and demand nodes (consumers) by optimizing the distribution logistics.
 
