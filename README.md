@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mykyta Shevchenko
 
-🚀 **Computer Science Student | Frontend Developer | Software Engineer**
+🚀 **Computer Science Student | Junior Frontend/Backend/Web Developer | Software Engineer**
 
 ---
 
@@ -25,6 +25,7 @@
 
 - JavaScript/TypeScript
 - Java
+- HTML, CSS
 - SQL
 - C#/C++
 
@@ -34,16 +35,17 @@
 - Spring
 - TailwindCSS
 - Axios
+- JWT
 
 ### **Tools & Platforms**
 
+- Git, GitHub
 - IntelliJ IDEA
 - Visual Studio Code
 - Visual Studio 2022
 - MySQL Workbench
 - Blender
 - Unity
-- Git
 
 ---
 
