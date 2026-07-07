@@ -14,7 +14,7 @@
 ## 🌟 About Me
 
 - 🎓 I'm a Computer Science student at Kharkiv National University of Radio Electronics.
-- 🇺🇦 Originally from Ukraine, currently residing in Czech Republic.
+- cz Currently residing in Czech Republic.
 - 💡 Interested in creating modern web applications using React and Spring Boot.
 
 ---
