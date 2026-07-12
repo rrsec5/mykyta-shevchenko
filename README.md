@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mykyta Shevchenko
 
-🚀 **Computer Science Student | Junior Frontend/Backend/Web Developer | Software Engineer**
+🚀 **Software Engineer | Java • Spring Boot • React • TypeScript**
 
 ---
 
@@ -13,39 +13,54 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm a Computer Science student at Kharkiv National University of Radio Electronics.
-- 🇨🇿 Currently residing in Czech Republic.
-- 💡 Interested in creating modern web applications using React and Spring Boot.
+- 🇨🇿 Based in the Czech Republic.
+- 💻 Software Engineer focused on modern web application development.
+- ⚙️ Interested in backend, frontend, and full-stack development.
+- 🚀 Passionate about building scalable applications with Java, Spring Boot, and React.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### **Languages**
+### Languages
 
-- JavaScript/TypeScript
 - Java
-- HTML, CSS
+- TypeScript
+- JavaScript
 - SQL
-- C#/C++
+- HTML5 & CSS3
+- C#
+- C++
 
-### **Frameworks & Libraries**
+### Backend
 
-- React.js
-- Spring
-- TailwindCSS
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+- JWT Authentication
+- Microservices
+- Maven
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Vite
 - Axios
-- JWT
 
-### **Tools & Platforms**
+### Databases
 
-- Git, GitHub
+- MySQL
+
+### Tools
+
+- Git & GitHub
 - IntelliJ IDEA
 - Visual Studio Code
-- Visual Studio 2022
+- Jira
+- Confluence
+- Docker (Basic)
 - MySQL Workbench
-- Blender
-- Unity
 
 ---
 
