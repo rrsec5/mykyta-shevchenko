@@ -102,13 +102,13 @@ A full-stack microservice-based Decision Support System designed to help users c
 
 ## 📂 Other Projects
 
-### 👕 **[Online Clothing Store](https://github.com/rrsec5/online-cloth-shop)**
-
-- This project is a comprehensive full-stack solution for an online clothing store catalog, built with a microservice architecture. It features a responsive React frontend, a scalable Spring Boot backend, and a centralized MySQL database.
-
 ### 💸 **[Finance App (Frontend)](https://github.com/rrsec5/finance-app-frontend)**
 
 - A React-based web application for managing personal finances, tracking expenses, and organizing digital wallets.
+
+### 👕 **[Online Clothing Store](https://github.com/rrsec5/online-cloth-shop)**
+
+- This project is a comprehensive full-stack solution for an online clothing store catalog, built with a microservice architecture. It features a responsive React frontend, a scalable Spring Boot backend, and a centralized MySQL database.
 
 ### 🎬 **[Cinema Management System (Frontend)](https://github.com/rrsec5/cinema-app-4th-course-frontend)**
 
