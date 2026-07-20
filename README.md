@@ -14,9 +14,13 @@
 ## 🌟 About Me
 
 - 🇨🇿 Based in the Czech Republic.
-- 💻 Software Engineer focused on modern web application development.
-- ⚙️ Interested in backend, frontend, and full-stack development.
-- 🚀 Passionate about building scalable applications with Java, Spring Boot, and React.
+- 💻 Software Engineer focused on backend and full-stack web development.
+- ☕ Experienced in building applications with Java, Spring Boot, React, and TypeScript.
+- 🏗️ Interested in designing applications using microservice architecture and REST APIs.
+- 🐳 Experienced with Docker and Docker Compose for containerized application deployment.
+- ⚙️ Familiar with CI/CD practices using GitHub Actions for automated builds, testing, and validation.
+- 🧪 Experienced in writing unit tests with JUnit 5 and Mockito to verify business logic and application behavior.
+- 🚀 Passionate about creating maintainable software with clean architecture and modern engineering practices.
 
 ---
 
@@ -52,23 +56,55 @@
 
 - MySQL
 
-### Tools
+### Testing
+
+- JUnit 5
+- Mockito
+
+### DevOps & Tools
 
 - Git & GitHub
+- GitHub Actions
+- Docker
+- Docker Compose
+- Docker Compose
 - IntelliJ IDEA
 - Visual Studio Code
 - Jira
 - Confluence
-- Docker (Basic)
 - MySQL Workbench
 
 ---
 
-## 📂 My Projects
+## ⭐ Featured Project
 
 ### 🌍 **[Immigration Decision Support System](https://github.com/rrsec5/immigration-decision-support-system)**
 
-- Microservice-based Decision Support System for country immigration. Built with React (TypeScript), Spring Boot, Spring Cloud (Eureka, API Gateway), and MySQL. Features dynamic algorithmic recommendations based on user surveys and 10-point metrics.
+[![CI](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml/badge.svg)](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml)
+
+A full-stack microservice-based Decision Support System designed to help users choose suitable countries for immigration using personalized recommendations based on user preferences and country metrics.
+
+**Key highlights:**
+
+- Built using **Java 17, Spring Boot, Spring Cloud, React, TypeScript, and MySQL**
+- Designed with a **microservice architecture**:
+  - API Gateway
+  - Eureka Service Discovery
+  - User Service
+  - Country Service
+  - Recommendation Service
+- Implemented personalized recommendation algorithms based on user questionnaire data
+- Added complete **Docker Compose environment** for local deployment
+- Created **GitHub Actions CI pipeline** for automated build, testing, and Docker validation
+- Developed **30+ unit tests using JUnit 5 and Mockito** covering core business logic
+
+---
+
+## 📂 Other Projects
+
+### 🌍 **[Immigration Decision Support System](https://github.com/rrsec5/immigration-decision-support-system)**
+
+- Microservice-based Decision Support System for country immigration. Built with Java, Spring Boot, React (TypeScript) and MySQL. Features dynamic algorithmic recommendations based on user surveys and 10-point metrics.
 
 ### 👕 **[Online Clothing Store](https://github.com/rrsec5/online-cloth-shop)**
 
