@@ -67,7 +67,6 @@
 - GitHub Actions
 - Docker
 - Docker Compose
-- Docker Compose
 - IntelliJ IDEA
 - Visual Studio Code
 - Jira
