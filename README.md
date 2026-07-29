@@ -17,8 +17,9 @@
 - 💻 Software Engineer focused on backend and full-stack web development.
 - ☕ Experienced in building applications with Java, Spring Boot, React, and TypeScript.
 - 🏗️ Interested in designing applications using microservice architecture and REST APIs.
-- 🐳 Experienced with Docker and Docker Compose for containerized application deployment.
-- ⚙️ Familiar with CI/CD practices using GitHub Actions for automated builds, testing, and validation.
+- 🐳 Experienced with Docker and containerized application deployment using Docker Compose.
+- ☸️ Familiar with Kubernetes and Helm for application orchestration, configuration management, and automated deployments.
+- ⚙️ Experienced with CI/CD practices using GitHub Actions for automated builds, testing, validation, and Kubernetes deployment workflows.
 - 🧪 Experienced in writing unit tests with JUnit 5 and Mockito to verify business logic and application behavior.
 - 🚀 Passionate about creating maintainable software with clean architecture and modern engineering practices.
 
@@ -39,7 +40,9 @@
 ### Backend
 
 - Spring Boot
+- Spring Cloud
 - Spring Data JPA
+- Spring Security
 - REST APIs
 - JWT Authentication
 - Microservices
@@ -67,11 +70,11 @@
 - GitHub Actions
 - Docker
 - Docker Compose
-- IntelliJ IDEA
-- Visual Studio Code
+- Kubernetes
+- Helm
+- Kind
 - Jira
 - Confluence
-- MySQL Workbench
 
 ---
 
@@ -79,7 +82,8 @@
 
 ### 🌍 **[Immigration Decision Support System](https://github.com/rrsec5/immigration-decision-support-system)**
 
-[![CI](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml/badge.svg)](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml)
+[![CI](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml/badge.svg)](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/ci.yml) 
+[![CD](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/cd.yml/badge.svg)](https://github.com/rrsec5/immigration-decision-support-system/actions/workflows/cd.yml)
 
 A full-stack microservice-based Decision Support System designed to help users choose suitable countries for immigration using personalized recommendations based on user preferences and country metrics.
 
@@ -94,7 +98,8 @@ A full-stack microservice-based Decision Support System designed to help users c
   - Recommendation Service
 - Implemented personalized recommendation algorithms based on user questionnaire data
 - Added complete **Docker Compose environment** for local deployment
-- Created **GitHub Actions CI pipeline** for automated build, testing, and Docker validation
+- Implemented **Kubernetes deployment using Helm**, including reusable templates, configuration management, health probes, and persistent storage
+- Created complete **GitHub Actions CI/CD pipeline** with automated testing, Helm validation, Docker image verification, and Kubernetes deployment
 - Developed **30+ unit tests using JUnit 5 and Mockito** covering core business logic
 
 ---
